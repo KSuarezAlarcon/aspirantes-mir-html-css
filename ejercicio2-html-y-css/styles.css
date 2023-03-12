@@ -1,0 +1,43 @@
+#title {
+    color:rgb(131, 36, 219);
+}
+#etiquetas {
+    color: blue;
+
+}
+div {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 5px;
+    background: linear-gradient(#bd09b7,#6b4cf5);
+    border-radius: 20px;
+    color: azure;
+    box-shadow: 5px 5px 10px grey;
+  }
+
+  #label 
+  {
+    padding: 5px;
+    width: 98%;
+    border: 5px;
+  }
+
+  #buttons {
+    border: none;
+    margin top: 20px;
+    padding: 5px; 
+    margin: 15px;
+   
+
+  }
+
+}
+  body {
+    background-color:aliceblue;
+    font-family: 'Overpass', sans-serif;
+    font-weight: normal;
+    font-size: 100%;
+    margin: 0;
+  }
